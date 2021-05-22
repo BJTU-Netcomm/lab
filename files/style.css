@@ -48,7 +48,7 @@ header h1 strong,
 }
 
 #details img {
-  width: 100%;
+  width: 60%;
 }
 
 #details h1 {
@@ -172,3 +172,7 @@ section {
   margin: 100px 125px;
   text-align: center;
 }
+
+/* img {
+  width: ​50px;
+} */
